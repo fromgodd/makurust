@@ -10,7 +10,8 @@ Special thanks to Yuri Katsuki for providing help in the project</p>
 ## Usage
 To use Makurust, simply run the following command:
 ```bash
-makurust <input-file.md>
+chmod a+x ./makurust
+./makurust <input-file.md>
 ```
 As a result, an HTML page will be created from the given Markdown file. If the output file already exists, it will be overwritten.
 
