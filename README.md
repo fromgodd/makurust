@@ -39,6 +39,6 @@ cargo run
 cd target/release/
 ./makurust
 ```
-# TODO: IMPLEMENT NORMAL STATIC CSS-STYLE, Add what dependencies were used in this project. 
+## TODO: IMPLEMENT NORMAL STATIC CSS-STYLE, Add what dependencies were used in this project. 
 
 
