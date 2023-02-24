@@ -39,6 +39,6 @@ cargo run
 cd target/release/
 ./makurust
 ```
+# TODO: IMPLEMENT NORMAL STATIC CSS-STYLE, Add what dependencies were used in this project. 
 
-## Contributing
-You can fork the repository on GitHub, make your changes, and send a pull request if you want to contribute to Makurust.
+
