@@ -273,7 +273,7 @@ fn main() -> Result<(), Box<dyn Error>> {
 
     //CHECKOUT
     println!("Succesfully converted!");
-    println!("Initial MD file => {} ,\nOutput HTML filename => {} ,\nTime elapsed => {} ns",	input_filename.replace(".md", ".html"),	input_filename,	end_time.as_micros());
+    println!("Initial MD file => {} \nOutput HTML filename => {} \nTime elapsed => {} microseconds",	input_filename.replace(".md", ".html"),	input_filename,	end_time.as_micros());
     
 
     Ok(())
