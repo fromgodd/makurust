@@ -51,6 +51,6 @@ cd target/release/
 - [ ] Table
 
 
-### TODO: Implement Table support, Implement panics, backtrace and etc.
+### TODO: Implement Table support, ~~Implement panics~~, OS System Err and etc.
 
 
