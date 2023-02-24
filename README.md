@@ -1,5 +1,10 @@
-# Makurust
-Markdown to HTML converter written in Rust. Inspired by UwUssimo's Makudaun Tool.
+<h1 align="center">Makurust</h1>
+
+Markdown to HTML converter written in Rust. Inspired by [UwUssimo Robinson's Makudaun Tool](https://github.com/uwussimo/makudaun)
+
+## Usage
+
+
 
 
 ## Build from source
