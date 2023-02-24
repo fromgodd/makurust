@@ -1,13 +1,17 @@
 <h1 align="center">Makurust</h1>
 
 Markdown to HTML converter written in Rust. Inspired by [UwUssimo Robinson's Makudaun Tool](https://github.com/uwussimo/makudaun)
+<p>
+Special thanks to Yuri Katsuki for providing help in the project</p>
 
 ## Usage
+To use Makurust, simply run the following command:
+```bash
+makurust <input-file.md>
+```
+As a result, an HTML page will be created from the given Markdown file. If the output file already exists, it will be overwritten.
 
-
-
-
-## Build from source
+## Building from source
 1. Clone the Makurust repository using Git:
 
 ```bash
@@ -35,3 +39,6 @@ cargo run
 cd target/release/
 ./makurust
 ```
+
+## Contributing
+You can fork the repository on GitHub, make your changes, and send a pull request if you want to contribute to Makurust.
