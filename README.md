@@ -39,6 +39,15 @@ cargo run
 cd target/release/
 ./makurust
 ```
-### TODO: IMPLEMENT NORMAL STATIC CSS-STYLE, Add what dependencies were used in this project, Implement panics, backtrace and etc.
+<p>Dependency used 'pulldown-cmark = "0.9.2'</p>
+
+### What is working
+- [x] GitHub-like Markdown Style
+- [x] Images
+- [x] Aligning
+- [ ] Table
+
+
+### TODO: Implement Table support, Implement panics, backtrace and etc.
 
 
