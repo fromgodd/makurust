@@ -1,6 +1,6 @@
 <h1 align="center">Makurust</h1>
 
-Markdown to HTML converter written in Rust. Inspired by [UwUssimo Robinson's Makudaun Tool](https://github.com/uwussimo/makudaun)
+Markdown to HTML converter written in Rust. Inspired by [Katsuki Yuri's Makudaun Tool](https://github.com/katsuki-yuri/makudaun)
 <p>
 Special thanks to Yuri Katsuki for providing help in the project</p>
 
@@ -39,6 +39,6 @@ cargo run
 cd target/release/
 ./makurust
 ```
+### TODO: IMPLEMENT NORMAL STATIC CSS-STYLE, Add what dependencies were used in this project, Implement panics, backtrace and etc.
 
-## Contributing
-You can fork the repository on GitHub, make your changes, and send a pull request if you want to contribute to Makurust.
+
