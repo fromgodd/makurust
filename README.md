@@ -13,8 +13,9 @@ To use Makurust, simply run the following command:
 chmod a+x ./makurust
 ./makurust filename.md
 ```
-As a result, an HTML page will be created from the given Markdown file. If the output file already exists, it will be overwritten.
+As a result, an HTML page will be created from the given Markdown file. If the output file already exists, it will be overwritten.<br>
 
+Makurust was build using third party library - `pulldown-cmark = "0.9.2"`
 ## Building from source
 1. Clone the Makurust repository using Git:
 
@@ -43,7 +44,7 @@ cargo run
 cd target/release/
 ./makurust
 ```
-<p>Dependency used 'pulldown-cmark = "0.9.2'</p>
+
 
 ### What is working
 - [X] Basic Markdown Support
