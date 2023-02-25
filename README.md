@@ -50,6 +50,7 @@ cd target/release/
 - [x] Images
 - [x] Code snippets
 - [x] Aligning
+- [-] Text style syntax (Italic, Underlined, Stroke Through)
 - [ ] Table
 - [ ] Syntax highlighting for snippets
 - [ ] Checkboxes
