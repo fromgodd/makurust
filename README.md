@@ -46,10 +46,12 @@ cd target/release/
 <p>Dependency used 'pulldown-cmark = "0.9.2'</p>
 
 ### What is working
+- [X] Basic Markdown Support
 - [x] GitHub-like Markdown Style
+- [x] Aligning
 - [x] Images
 - [x] Code snippets
-- [x] Aligning
+### Under development
 - [ ] Text style syntax (Italic, Underlined, Stroke Through)
 - [ ] Table
 - [ ] Syntax highlighting for snippets
