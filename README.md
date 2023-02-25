@@ -1,13 +1,17 @@
 <h1 align="center">Makurust</h1>
 
-Markdown to HTML converter written in Rust. Inspired by [Katsuki Yuri's Makudaun Tool](https://github.com/katsuki-yuri/makudaun)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/97128346/221287390-bb500651-5daa-4fbc-a1f4-10f34fc27ff8.png" width="300px" height="300px">
+</p>
+Markdown to HTML converter written in Rust. Inspired by Katsuki Yuri's Makudaun Tool
 <p>
 Special thanks to Yuri Katsuki for providing help in the project</p>
 
 ## Usage
 To use Makurust, simply run the following command:
 ```bash
-makurust <input-file.md>
+chmod a+x ./makurust
+./makurust filename.md
 ```
 As a result, an HTML page will be created from the given Markdown file. If the output file already exists, it will be overwritten.
 
@@ -48,6 +52,6 @@ cd target/release/
 - [ ] Table
 
 
-### TODO: Implement Table support, Implement panics, backtrace and etc.
+### TODO: Implement Table support, ~~Implement panics~~, OS System Err and etc.
 
 
