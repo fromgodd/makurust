@@ -58,6 +58,6 @@ cd target/release/
 - [ ] Syntax highlighting for snippets
 - [ ] Checkboxes
 
-### TODO: Implement Table support, ~~Implement panics~~, OS System Err and etc.
+### TODO: Implement Table support, Darkmode (-dark argument), ~~Implement panics~~, OS System Err and etc.
 
 
