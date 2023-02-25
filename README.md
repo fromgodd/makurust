@@ -48,8 +48,10 @@ cd target/release/
 ### What is working
 - [x] GitHub-like Markdown Style
 - [x] Images
+- [x] Code snippets
 - [x] Aligning
 - [ ] Table
+- [ ] Syntax highlighting for snippets
 
 
 ### TODO: Implement Table support, ~~Implement panics~~, OS System Err and etc.
