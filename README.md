@@ -52,7 +52,7 @@ cd target/release/
 - [x] Aligning
 - [ ] Table
 - [ ] Syntax highlighting for snippets
-
+- [ ] CHeckboxes
 
 ### TODO: Implement Table support, ~~Implement panics~~, OS System Err and etc.
 
