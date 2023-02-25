@@ -3,9 +3,9 @@
 <p align="center">
 <img src="https://user-images.githubusercontent.com/97128346/221287390-bb500651-5daa-4fbc-a1f4-10f34fc27ff8.png" width="300px" height="300px">
 </p>
-Markdown to HTML converter written in Rust. Inspired by Katsuki Yuri's Makudaun Tool
+<h3 align="center">Makurust is a powerful tool written in Rust that allows you to effortlessly convert your Markdown files into static HTML pages. Inspired by Typescript based Makudaunt tool that was originially written by Yuri Katsuki. Makurust is designed to make the conversion process as fast and efficient as possible.</h3>
 <p>
-Special thanks to Yuri Katsuki for providing help in the project</p>
+
 
 ## Usage
 To use Makurust, simply run the following command:
