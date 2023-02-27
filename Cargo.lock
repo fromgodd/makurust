@@ -18,6 +18,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "makurust"
+version = "0.1.0"
+dependencies = [
+ "pulldown-cmark",
+]
+
+[[package]]
 name = "memchr"
 version = "2.5.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -33,13 +40,6 @@ dependencies = [
  "getopts",
  "memchr",
  "unicase",
-]
-
-[[package]]
-name = "makurust"
-version = "0.1.0"
-dependencies = [
- "pulldown-cmark",
 ]
 
 [[package]]
