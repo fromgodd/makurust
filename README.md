@@ -28,7 +28,6 @@ cargo install --locked --git https://github.com/fromgodd/makurust makurust
 - [x] Images
 - [x] Code snippets
 ### Under development
-- [ ] Text style syntax (Italic, Underlined, Stroke Through)
 - [ ] Table
 - [ ] Syntax highlighting for snippets
 - [ ] Checkboxes
