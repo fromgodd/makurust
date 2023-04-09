@@ -27,11 +27,12 @@ cargo install --locked --git https://github.com/fromgodd/makurust makurust
 - [x] Aligning
 - [x] Images
 - [x] Code snippets
+- [x] Checkboxes
+
 ### Under development
 - [ ] Table
 - [ ] Syntax highlighting for snippets
-- [ ] Checkboxes
 
-### TODO: Implement Table support, Darkmode (-dark argument), ~~Implement panics~~, OS System Err and etc.
+
 
 
