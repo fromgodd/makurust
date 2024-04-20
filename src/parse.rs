@@ -1,7 +1,6 @@
-use pulldown_cmark::{html, Options, Parser};
-use std::fs::File;
-use std::io::{self, prelude::*};
 use std::error::Error;
+use std::fs::File;
+use std::io::prelude::*;
 
 pub fn parse_file(input_filename: &str) -> Result<String, Box<dyn Error>> {
     let mut input_file = File::open(input_filename)?;
